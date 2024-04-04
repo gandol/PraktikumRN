@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Euclid Circular A Bold.ttf",
+      "sha1": "0a69a0d9a4d2f9477582e7f01d84bc1d61c4d01c"
+    },
+    {
+      "path": "src/assets/fonts/Euclid Circular A Light.ttf",
+      "sha1": "eb1ac25ae5af273c16753fdf76b5a2919f4aac25"
+    },
+    {
+      "path": "src/assets/fonts/Euclid Circular A Medium.ttf",
+      "sha1": "e97e414467f782f08b7227a89db002829ebb4a52"
+    },
+    {
+      "path": "src/assets/fonts/Euclid Circular A Regular.ttf",
+      "sha1": "d1ad5380051d486ba359d1a38bb8feb3f2a26fe5"
+    },
+    {
+      "path": "src/assets/fonts/Euclid Circular A SemiBold.ttf",
+      "sha1": "e89ec5f5d0749a91981e5544c67bb73d8e135445"
+    }
+  ]
+}

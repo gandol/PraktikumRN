@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "616332146130",
+    "firebase_url": "https://praktikumrn-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "praktikumrn",
+    "storage_bucket": "praktikumrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616332146130:android:a95cf0a4c11c60ba33040b",
+        "android_client_info": {
+          "package_name": "com.praktikumrn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIt0TPxy7NDt6bjyrFGaF6O8aVBYWieKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
